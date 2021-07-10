@@ -1,6 +1,3 @@
-
-
-
 ## Hii there :wave:, I am Pooja Paliwal 
 - 🔭 I’m currently working on ReactJs
 - 👯 I’m looking to collaborate on open source projects and hackathons
